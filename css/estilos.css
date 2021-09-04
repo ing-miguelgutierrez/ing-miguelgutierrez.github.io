@@ -354,7 +354,7 @@ footer .redes-sociales a {
 	transition: .3s ease all;
 }
 
-footer .redes-sociales .linkedin {background: #1da1f2;}
+footer .redes-sociales .linkedin {background: #0699f5;}
 footer .redes-sociales .facebook {background: #3b5998;}
 footer .redes-sociales .instagram {background: #c13584;}
 
@@ -383,7 +383,7 @@ footer .creado-por {
 	color: #c13584;
 }
 
-footer .creado-por a {color: #000;}
+footer .creado-por a {color: #ff5000;}
 footer .creado-por a:hover {text-decoration: underline;}
 
 /* ------------------------- */
