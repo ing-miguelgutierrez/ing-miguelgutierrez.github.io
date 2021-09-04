@@ -334,6 +334,7 @@ header nav a.activo {
 /* Footer */
 /* ------------------------- */
 footer .redes-sociales {
+	text-align: center;
 	display: flex;
 	align-content: center;
 	justify-content: center;
