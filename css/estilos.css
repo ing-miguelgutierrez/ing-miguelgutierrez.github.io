@@ -419,3 +419,9 @@ footer .creado-por a:hover {text-decoration: underline;}
 		width: 100%;
 	}
 }
+
+.boton {
+	padding: 15px;
+	background-color: #0699f5;
+	color: white;
+ }
