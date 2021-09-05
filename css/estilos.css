@@ -331,6 +331,27 @@ header nav a.activo {
 }
 
 /* ------------------------- */
+/* planes */
+/* ------------------------- */
+
+.wrapper {
+    overflow:hidden;
+    width:300px;
+}
+.wrapper div {
+    /* cualquier altura mayor que el total de sumar la anchura de las img */
+    width:330px;
+
+    /* para evitar el margen superior de la primera fila */
+    margin-top:100px;
+}
+/* img {
+    width:100px;
+    height:75px;
+    float:left;
+    margin:10px 10px 0 0;
+} */
+/* ------------------------- */
 /* Footer */
 /* ------------------------- */
 footer .redes-sociales {
