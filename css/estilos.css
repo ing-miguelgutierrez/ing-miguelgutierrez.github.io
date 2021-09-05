@@ -184,13 +184,13 @@ header nav a.activo {
 }
 
 .peliculas-recomendadas .contenedor-carousel .carousel .pelicula {
-	min-width: 20%;
+	min-width: 100%;
 	transition: .3s ease all;
 	box-shadow: 5px 5px 10px rgba(0,0,0,.3);
 }
 
 .peliculas-recomendadas .contenedor-carousel .carousel .pelicula img {
-	width: 100%;
+	width: 120%;
 	vertical-align: top;
 }
 
